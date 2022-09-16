@@ -2,9 +2,7 @@ package net.highom.highomscooltestmod.item;
 
 import net.fabricmc.fabric.api.item.v1.FabricItemSettings;
 import net.highom.highomscooltestmod.HighomsCoolTestMod;
-import net.minecraft.item.FoodComponents;
 import net.minecraft.item.Item;
-import net.minecraft.item.ItemGroup;
 import net.minecraft.util.Identifier;
 import net.minecraft.util.registry.Registry;
 
