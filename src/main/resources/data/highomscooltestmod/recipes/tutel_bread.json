@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:bread"
+    },
+    {
+      "item": "minecraft:turtle_egg"
+    }
+  ],
+  "result": {
+    "item": "highomscooltestmod:tutel_bread"
+  }
+}
