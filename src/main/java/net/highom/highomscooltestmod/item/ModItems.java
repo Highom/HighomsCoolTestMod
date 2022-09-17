@@ -11,6 +11,9 @@ public class ModItems {
     public static final Item TUTEL_BREAD = registerItem("tutel_bread",
             new Item(new FabricItemSettings().group(ModItemGroup.HighomMod).food(ModFoodComponents.TUTELBREAD)));
 
+    public static final Item TUTEL_FRIED_EGG = registerItem("tutel_fried_egg",
+            new Item(new FabricItemSettings().group(ModItemGroup.HighomMod).food(ModFoodComponents.TUTELFRIEDEGG)));
+
     private static Item registerItem(String name, Item item){
         return Registry.register(Registry.ITEM, new Identifier(HighomsCoolTestMod.MOD_ID, name), item);
     }
