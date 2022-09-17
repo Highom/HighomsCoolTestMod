@@ -1,5 +1,10 @@
 {
+  "itemGroup.highomscooltestmod.highom": "Highom's Mod",
   "item.highomscooltestmod.tutel_bread": "Tutel Bread",
   "item.highomscooltestmod.tutel_fried_egg": "Tutel Fried Egg",
-  "itemGroup.highomscooltestmod.highom": "Highom's Mod"
+
+  "item.highomscooltestmod.stone_helmet": "Stone Helmet",
+  "item.highomscooltestmod.stone_chestplate": "Stone Chestplate",
+  "item.highomscooltestmod.stone_leggings": "Stone Leggings",
+  "item.highomscooltestmod.stone_boots": "Stone Boots"
 }
